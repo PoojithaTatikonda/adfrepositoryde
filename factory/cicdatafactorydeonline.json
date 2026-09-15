@@ -1,0 +1,15 @@
+{
+	"name": "cicdatafactorydeonline",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "18ad7c89-99f4-4dd3-a853-7260196189f2",
+		"tenantId": "c7b0d19c-9fe9-4244-8207-960278392073"
+	}
+}
